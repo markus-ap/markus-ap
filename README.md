@@ -16,7 +16,8 @@ and [veganism](https://en.wikipedia.org/wiki/Veganism). 🌱
 I embarrassingly recently had the epiphany that I am capabale of creating apps, so I am also experimenting with automatic pipelines to [Azure](https://en.wikipedia.org/wiki/Microsoft_Azure).
 
 Any results or publications of hobby projects will be listed here:
-- Null
+- [Nynorsk-PGS](https://nynorsk.azurewebsites.net/)
+  - The start of an API for working with the written language Norwegian nynorsk.
 
 ## My programming history
 My very first programming language was [JavaScript](https://en.wikipedia.org/wiki/JavaScript). I was making a basic website when a desire to open a link in a new window 
