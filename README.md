@@ -15,10 +15,6 @@ and [veganism](https://en.wikipedia.org/wiki/Veganism). 🌱
 
 I embarrassingly recently had the epiphany that I am capabale of creating apps, so I am also experimenting with automatic pipelines to [Azure](https://en.wikipedia.org/wiki/Microsoft_Azure).
 
-Any results or publications of hobby projects will be listed here:
-- [skvip.lol](https://skvip.lol)
-  - The start of a public messaging platform
-
 ## My programming history
 My very first programming language was [JavaScript](https://en.wikipedia.org/wiki/JavaScript). I was making a basic website when a desire to open a link in a new window 
 sent me down a rabbit hole I've never quite dug myself out of. 🕳
